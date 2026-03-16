@@ -5,7 +5,7 @@ This section contains a collection of projects I developed during my studies in 
 
 | Project | Subject |
 |:------------:|:------------:|
-| [Simple Compiler](https://github.com/armaritto/project-repo) | Compilers |
+| [Simple Compiler](https://github.com/yomnay888/compiler) | Compilers |
 | [Heart Failure Classifier](https://github.com/Armaritto/Heart-Faliure-Classifier) | Pattern Recognition |
 | [Speech Emotion Recognition](https://github.com/Armaritto/Speech-emotion-recognition) | Pattern Recognition |
 | [Solar System](https://github.com/AndrewSafwat1/Solar-System) | Computer Graphics |
