@@ -1,5 +1,5 @@
 | Project | Subject |
-|--------------|--------------|
+|:------------:|:------------:|
 | [Simple Compiler*](https://github.com/armaritto/project-repo) | Compilers |
 | [Heart Failure Classifier](https://github.com/Armaritto/Heart-Faliure-Classifier) | Pattern Recognition |
 | [Speech Emotion Recognition*](https://github.com/Armaritto/Speech-emotion-recognition) | Pattern Recognition |
@@ -7,7 +7,7 @@
 | [Arduino Labs](https://github.com/Armaritto/ArduinoLabs) | Embedded Systems |
 | [Huffman's File Compressor](https://github.com/Armaritto/FileCompressor) | Algorithms |
 | [Algorithms Studies](https://github.com/Armaritto/AlgorithmsStudies) | Algorithms |
-| [Sudoku Solver](https://github.com/Armaritto/CSP-Sudoku-Solver) | Machine Learning |
+| [Sudoku Solver*](https://github.com/Armaritto/CSP-Sudoku-Solver) | Machine Learning |
 | [Connect 4s solver](https://github.com/Armaritto/Connect-4s-v2.0) | Machine Learning |
 | [8 Puzzle Solver](https://github.com/Armaritto/8-Puzzle-Game) | Machine Learning |
 | [Socket Programming](https://github.com/Armaritto/Socket-Programming) | Networks |
