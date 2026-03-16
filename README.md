@@ -17,7 +17,6 @@ This section contains a collection of projects I developed during my studies in 
 | [Sudoku Solver](https://github.com/Armaritto/CSP-Sudoku-Solver) | Machine Learning |
 | [Connect 4s solver](https://github.com/Armaritto/Connect-4s-v2.0) | Machine Learning |
 | [8 Puzzle Solver](https://github.com/Armaritto/8-Puzzle-Game) | Machine Learning |
-| [8 Puzzle Solver](https://github.com/Armaritto/8-Puzzle-Game) | Machine Learning |
 | [VHDL Lab](https://github.com/Armaritto/VHDL-Architecture) | Computer Architecture |
 | [Socket Programming](https://github.com/Armaritto/Socket-Programming) | Networks |
 | [Smart City Parking Management System](https://github.com/Rakeni-Shokran) | Database |
