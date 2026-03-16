@@ -27,6 +27,8 @@ This section contains a collection of projects I developed during my studies in 
 | [Simple Shell](https://github.com/Armaritto/ArmaShell) | Operating Systems |
 | [Threads Lab](https://github.com/Armaritto/OS_Lab2) | Operating Systems |
 | [CalTrain](https://github.com/Armaritto/CalTrain) | Operating Systems |
+| [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph) | Control Systems |
+| [Matlab](https://github.com/Armaritto/Modern-Control-MATLAB) | Modern Control |
 | [Discrete Labs](https://github.com/AndrewSafwat1/Graphs-Trees-Discrete-Mathematics) | Discrete Mathematics |
 | [Data Structures Labs](https://github.com/Armaritto/CSE224-Data-Structures-2-Labs) | Data Structures 2 |
 | [Tournamate](https://github.com/Armaritto/Tournamate) | Human Computer Interaction |
