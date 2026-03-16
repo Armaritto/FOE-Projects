@@ -8,9 +8,10 @@ This section contains a collection of projects I developed during my studies in 
 | [Simple Compiler](https://github.com/armaritto/project-repo) | Compilers |
 | [Heart Failure Classifier](https://github.com/Armaritto/Heart-Faliure-Classifier) | Pattern Recognition |
 | [Speech Emotion Recognition](https://github.com/Armaritto/Speech-emotion-recognition) | Pattern Recognition |
+| [Solar System](https://github.com/AndrewSafwat1/Solar-System) | Computer Graphics |
 | [Graphics Labs](https://github.com/Armaritto/Graphics-Labs) | Computer Graphics |
 | [Arduino Labs](https://github.com/Armaritto/ArduinoLabs) | Embedded Systems |
-| [Feedify: Reddit Clone](https://github.com/rowangamal/Feedify) | Sofftware Engineering |
+| [Feedify: Reddit Clone](https://github.com/rowangamal/Feedify) | Software Engineering |
 | [Huffman's File Compressor](https://github.com/Armaritto/FileCompressor) | Algorithms |
 | [Algorithms Studies](https://github.com/Armaritto/AlgorithmsStudies) | Algorithms |
 | [Sudoku Solver](https://github.com/Armaritto/CSP-Sudoku-Solver) | Machine Learning |
